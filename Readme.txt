@@ -1,10 +1,5 @@
-Sveiki,
-
-Dëkoju uş galimybæ dalyvauti Paid Java Development Internship in Vilnius - Visma Lietuva atrankoje.
-
-Programà su atlikta uşduotimi rasite VismaExercise.zip.
 Kaip naudotis programa:
-	1. Paleiskite programà;
-	2. Pasirinkite pagal kà norite rûğiuoti duomenis (n — pagal kieká; d — pagal datà);
-	3. Priklausomai nuo pasirinkimo áveskite kieká (n) arba datà (d);
-	4. Programa atspausdina rezultatà.
+	1. Paleiskite programÃ ;
+	2. Pasirinkite pagal kÃ  norite rÃ»Ã°iuoti duomenis (n â€” pagal kiekÃ¡; d â€” pagal datÃ );
+	3. Priklausomai nuo pasirinkimo Ã¡veskite kiekÃ¡ (n) arba datÃ  (d);
+	4. Programa atspausdina rezultatÃ .
