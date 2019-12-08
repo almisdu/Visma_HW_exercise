@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="VismaExercise:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/VismaExercise_jar</output-path>
+    <root id="archive" name="VismaExercise.jar">
+      <element id="module-output" name="VismaExercise" />
+    </root>
+  </artifact>
+</component>
